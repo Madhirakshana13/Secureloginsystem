@@ -23,6 +23,18 @@ A secure web application developed using Flask and SQLite.
 
 This project demonstrates secure user authentication practices by implementing password hashing, session management, and database-backed login functionality.
 
+*Screenshots*
+
+#Login Page
+![Login](screenshots/loginpage.png)
+
+#Registration Page
+![Register](screenshots/registerpage.png)
+
+#Dashboard
+![Dashboard](screenshots/finaldashboard_page.png)
+
 *Author*
 
 Madhirakshana Ravikumar
+
